@@ -1,0 +1,7 @@
+venv/
+
+.env
+
+
+
+templates/index.html
